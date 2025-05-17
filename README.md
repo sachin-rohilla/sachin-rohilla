@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/_sachinrohilla" target="blank"><img src="https://img.shields.io/twitter/follow/_sachinrohilla?logo=twitter&style=for-the-badge" alt="_sachinrohilla" /></a> </p>
 
-- 📚 I’m currently learning **I’m currently learning React Native 📱 and Node.js 🚀**
+- 📚 Currently learning **React Native 📱 and Node.js (Backend) 🚀**
 
-- 👨‍💻 All of my projects are available at [https://sachin-rohilla.vercel.app](https://sachin-rohilla.vercel.app)
+- 👨‍💻 My portfolio [https://sachin-rohilla.vercel.app](https://sachin-rohilla.vercel.app)
 
 - 💡 Ask me about **React, MERN stack, Front-End Development, React Native, or Node.js**
 
-- 📧 How to reach me **sachinrohilla23799@gmail.com**
+- 📧 Contact me **sachinrohilla23799@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
