@@ -49,18 +49,20 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 
 <!-- Top Languages -->
+<!-- Top Languages -->
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachin-rohilla&show_icons=true&locale=en&layout=compact&bg_color=1f1f1f&text_color=ffffff" alt="sachin-rohilla" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachin-rohilla&show_icons=true&locale=en&layout=compact&bg_color=0D1117&text_color=ffffff" alt="sachin-rohilla" />
 </p>
 
 <!-- GitHub Stats -->
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachin-rohilla&show_icons=true&locale=en&bg_color=1f1f1f&text_color=ffffff" alt="sachin-rohilla" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachin-rohilla&show_icons=true&locale=en&bg_color=0D1117&text_color=ffffff" alt="sachin-rohilla" />
 </p>
 
-<!-- Streak Stats with subtle green text -->
+<!-- Streak Stats with green numbers and new background -->
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-rohilla&background=1F1F1F&currStreakNum=32CD32&sideNums=32CD32&fire=32CD32&ring=32CD32&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="sachin-rohilla" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-rohilla&background=0D1117&currStreakNum=32CD32&sideNums=32CD32&fire=32CD32&ring=32CD32&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="sachin-rohilla" />
 </p>
+
 
 
