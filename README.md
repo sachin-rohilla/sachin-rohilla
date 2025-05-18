@@ -48,9 +48,19 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 
+<!-- Top Languages -->
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachin-rohilla&show_icons=true&locale=en&layout=compact&bg_color=1f1f1f&text_color=ffffff" alt="sachin-rohilla" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachin-rohilla&show_icons=true&locale=en&layout=compact" alt="sachin-rohilla" /></p>
+<!-- GitHub Stats -->
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachin-rohilla&show_icons=true&locale=en&bg_color=1f1f1f&text_color=ffffff" alt="sachin-rohilla" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachin-rohilla&show_icons=true&locale=en" alt="sachin-rohilla" /></p>
+<!-- Streak Stats with subtle green text -->
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-rohilla&background=1F1F1F&currStreakNum=32CD32&sideNums=32CD32&fire=32CD32&ring=32CD32&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="sachin-rohilla" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-rohilla&" alt="sachin-rohilla" /></p>
+
